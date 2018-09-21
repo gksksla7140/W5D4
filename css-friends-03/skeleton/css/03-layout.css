@@ -1,0 +1,21 @@
+/* PHASE 3: Layout */
+.content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.content-sidebar {
+  width: 300px;
+  padding: 20px;
+  min-height: 200px;
+  background-color: aqua;
+  
+}
+
+.content-main {
+  width: 600px;
+  padding: 20px;
+  min-height: 200px;
+  background-color: purple;
+
+}
